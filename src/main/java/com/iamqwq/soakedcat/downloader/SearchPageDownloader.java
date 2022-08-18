@@ -12,8 +12,6 @@ import java.util.Iterator;
 
 public class SearchPageDownloader extends Downloader {
 
-    private int threadAmount;
-
     private SearchFilter filter;
 
     public SearchPageDownloader(SearchFilter filter) {
@@ -35,12 +33,12 @@ public class SearchPageDownloader extends Downloader {
                 Iterator<String> iterator = artworkImageURLs.iterator();
                 ArtworkImageDownloader artworkImageDownloader = new ArtworkImageDownloader(iterator);
                 while(iterator.hasNext()) {
-                    while(threadAmount >= 4) {
+                    while(artworkImageDownloader.threadAmount >= 4) {
                         Thread.sleep(500);
                     }
                     new Thread(artworkImageDownloader).start();
                 }
-                while(threadAmount != 0) {
+                while(artworkImageDownloader.threadAmount != 0) {
                     Thread.sleep(500);
                 }
                 Thread.sleep(2000);

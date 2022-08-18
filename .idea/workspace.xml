@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="d0e0128e-774e-466f-baee-8d0d5165b112" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iamqwq/soakedcat/downloader/SearchPageDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iamqwq/soakedcat/downloader/SearchPageDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iamqwq/soakedcat/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iamqwq/soakedcat/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iamqwq/soakedcat/ajax/SearchPageAJAXURL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iamqwq/soakedcat/ajax/SearchPageAJAXURL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iamqwq/soakedcat/downloader/ArtworkImageDownloader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iamqwq/soakedcat/downloader/ArtworkImageDownloader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iamqwq/soakedcat/downloader/SearchPageDownloader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iamqwq/soakedcat/downloader/SearchPageDownloader.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +98,9 @@
       <workItem from="1660285186321" duration="2862000" />
       <workItem from="1660288380800" duration="87000" />
       <workItem from="1660288489785" duration="1236000" />
-      <workItem from="1660373841436" duration="645000" />
+      <workItem from="1660373841436" duration="1941000" />
+      <workItem from="1660538036042" duration="923000" />
+      <workItem from="1660725050619" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 新增两种下载功能&#10;&#10;- 新增依据id直接下载作品功能&#10;- 新增依据检索过滤器批量下载作品功能">
       <created>1660289511657</created>
@@ -141,26 +148,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1660032824881" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1660288072222">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1660406121493">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1660288072222" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1660288072222">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1660406121493" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1660406121493">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1660288072222" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1660288072222">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1660406121493" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1660406121493">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1660288072222" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1660288072222">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1660406121493" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1660406121493">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1660288072222" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1660406121493" />
     <state x="270" y="54" key="SettingsEditor" timestamp="1660288633583">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1660288633583" />
+    <state x="401" y="113" key="new project wizard" timestamp="1660538297332">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="401" y="113" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1660538297332" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1660034331639">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
