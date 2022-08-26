@@ -2,9 +2,10 @@
 <div align="center">
 <h2>- Soaked  Cat -</h2>
 不只是排行 - 可根据Tag检索并根据条件过滤结果的Pixiv爬虫
+
+<b>- 本项目无时限搁置 学成后将会重构项目 - </b>
 </div>
 
-- 本项目无时限搁置 学成后将会重构项目 - 
 
 <div align="center">
 <small>Unreleased Version :D</small>
